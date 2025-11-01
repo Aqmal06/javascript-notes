@@ -20,7 +20,7 @@
  -> 2.double quote  
     -> Escape characters (digunakan bila character/huruf pakai koma atas) (\' atau \")  
     -> digunakan untuk create baris baharu(\n)  
- -> 3.interpolation  
+ -> 3.interpolation (`input`)  
     -> gunakan '$' dan 'curly braces' untuk munculkan input  
 
 -> JavaScript comparasion operator  
