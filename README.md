@@ -1,6 +1,6 @@
-# javascript-notes
--> Basic JavaScript  
+# Basic JavaScript 
 1.<script><script>  
+  -> (merupakan syntax)
 2.document.body.innerHTML  
 3.alert();  
  -> (untuk create pop up)  
